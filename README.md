@@ -32,8 +32,8 @@
           
                 <tr>   
                     <td> M-S EXCEL </td>
-                    <td> LAMA HAYO
-                        <td> Z
+                    <td> 85
+                        <td> B+
                     </td>
                     <td> COMPUTER
                     </td>
