@@ -16,16 +16,16 @@
                 
                     <td> WINDOW 10</td>
                    
-                    <td> 5
-                        <td> F
+                    <td> 90
+                        <td> A
                         <td> COMPUTER</td>
                     </td>
            
             
                 <tr>
                     <td> MS- WORD </td>
-                    <td> 40
-                        <td> F
+                    <td> 91
+                        <td> A
                     </td>
                     <td> COMPUTER
                     </td>
